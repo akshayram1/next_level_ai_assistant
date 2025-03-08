@@ -1,2 +1,5 @@
 venv/
 .env
+docs/abc.json
+index.json
+src/__pycache__/
